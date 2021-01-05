@@ -31,4 +31,9 @@
   <img align="center" src="https://github-readme-stats-git-master.ardademr1.vercel.app/api?username=ardademr1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="ardademr1's github stats" />
 </a>
 <br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-git-master.ardademr1.vercel.app/api/top-langs/?username=ardademr1&layout=compact&theme=material-palenight" />
+</a>
+<br />
 <br />
