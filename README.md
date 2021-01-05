@@ -7,7 +7,8 @@
 -->
 - 🔭 I’m currently working on Computer Engineering
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ardademr1/github-readme-stats)
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/ardademr1/ardademr1/issues)
 ### Spotify Playing 🎧
 
