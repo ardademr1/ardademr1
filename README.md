@@ -1,4 +1,4 @@
-### Hello, I'm Osman Arda Demir! 👋
+### Hello, My name is  Osman Arda Demir! 👋
 
 ## I'm a Computer Engineer
 <!--
