@@ -1,6 +1,6 @@
 ### Hello, My name is  Osman Arda Demir! 👋
 
-## I'm a Computer Engineer
+## I'm a Computer Engineer at GOKNET
 <!--
 **ardademr1/ardademr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
